@@ -24,7 +24,7 @@ My goal is to **explore and study the structure and features** of Apache Iceberg
 - Testing integrations with Apache Spark and Flink.
 - Experimenting with features like time travel, schema evolution, and snapshot isolation.
 
-> This fork **is not an official project**, and is maintained solely for **educational and experimental purposes**.
+> This fork **is not an official project**, and is maintained solely for **personal, educational and experimental purposes**.
 
 
 ![Iceberg](https://iceberg.apache.org/assets/images/Iceberg-logo.svg)
